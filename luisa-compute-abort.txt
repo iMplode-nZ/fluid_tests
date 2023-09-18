@@ -1,0 +1,3 @@
+LuisaCompute CPU backend kernel aborted:
+assertion failed: i.cmplt(self.len()) at \\?\C:\Users\euclid\Documents\luisa-compute-rs\luisa_compute\src\resource.rs:1673:13 
+
